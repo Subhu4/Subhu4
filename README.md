@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhu4&label=Profile%20views&color=0e75b6&style=flat" alt="subhu4" /> </p>
 
-- 🔭 I’m currently working on **Codeplay**
+- 🔭 I’m currently working on **Codeplay Website**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN,Android**
+- 💬 Ask me about **MERN,C,C++**
 
 - 📫 How to reach me **subhammaharana95@gmail.com**
 
